@@ -1,0 +1,4 @@
+#Wed Apr 29 11:16:08 CDT 2020
+base.0=C\:\\Users\\VI1XXWG\\Documents\\MyGis\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

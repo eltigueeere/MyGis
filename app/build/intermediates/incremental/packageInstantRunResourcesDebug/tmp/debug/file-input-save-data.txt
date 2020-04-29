@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Jul 18 23:07:20 CDT 2019
+0.baseType=DIRECTORY
+0.base=/home/laloeltigueeere/AndroidStudioProjects/GisGobDig19/app/build/intermediates/merged_assets/debug/out
+0.path=Xposed.ttf
+0.set=ASSET
+count=1

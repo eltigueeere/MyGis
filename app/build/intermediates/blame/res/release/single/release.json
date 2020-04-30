@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_view_user.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-hdpi\\view_user.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_gis_p2.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\fragment_gis_p2.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_navbar.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\activity_navbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_red_marker.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-mdpi\\red_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_header_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\header_navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_reset_password.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-hdpi\\reset_password.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_user_details.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\fragment_user_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable_selector_button.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_profile.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_logout.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_edit_profile.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\fragment_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_gis_p1.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\fragment_gis_p1.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_change_password.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_drawer.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\menu\\menu_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_gis2.jpg.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-mdpi\\gis2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_item_list_user.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\item_list_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_view_user.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\fragment_view_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_mapa.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\activity_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_edit.png.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_gis_p3.xml.flat",
+        "source": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\src\\main\\res\\layout\\fragment_gis_p3.xml"
+    }
+]

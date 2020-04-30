@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\21653b55bf9a07e012c42bd76ec444fd\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\3888af59fbe4fba461a590b8deef8f7d\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\42c6ff34da07236e9aa2d1eaa128ad70\library-1.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e238ab296da765bc3b78515b44fca6bf\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\1a3ded4e64de42b2a3c457e2799ab44d\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e789a0a2d89e293d0f4569a19b4e9481\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\37d72da4a9ea736597842a4062e093c7\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\6b594ba75684617f54228471eaa0a74c\timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:2:1-30:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd1539511a552b9bcb61980685557554\mapbox-android-core-1.3.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e7639780b22072cd2321f8ae8af553f5\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b28a254e55999e1d2aa62d09f8000698\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\7d76176e53fd418311040590316a8b91\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b0e58fc48c4f614940de1d0b6825b84d\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\d0058b50d3dc79d6a4280fa6904c5ce1\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\8604b3cda7e19d093894a8b2288df84b\mapbox-android-gestures-0.4.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd5911b83a8e992314af65995caab3cc\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\85412a34accce7cbfb53db58c3d1a0c1\mapbox-android-accounts-0.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\90fe857600127dac9c0bede2393f4769\soloader-0.6.0\AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\51a8ba79d7592159edea065639e710e5\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\d9af15a00c1532a32083353129658c8a\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b06eb4ce28a242d36ec78203522f4bd1\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\a0525a1a8e83ff20339acc2ad5b327ec\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:17:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:14:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd1539511a552b9bcb61980685557554\mapbox-android-core-1.3.0\AndroidManifest.xml:12:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd1539511a552b9bcb61980685557554\mapbox-android-core-1.3.0\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd1539511a552b9bcb61980685557554\mapbox-android-core-1.3.0\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd1539511a552b9bcb61980685557554\mapbox-android-core-1.3.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\1a3ded4e64de42b2a3c457e2799ab44d\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\1a3ded4e64de42b2a3c457e2799ab44d\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\6b594ba75684617f54228471eaa0a74c\timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\6b594ba75684617f54228471eaa0a74c\timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:18:5-28:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:18:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\90fe857600127dac9c0bede2393f4769\soloader-0.6.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\90fe857600127dac9c0bede2393f4769\soloader-0.6.0\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:14:9-42
+activity#com.example.loginwithretrofit.activity.MapaActivity
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:15:9-68
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:15:19-56
+activity#com.example.loginwithretrofit.activity.Navbar
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:16:9-18:61
+	android:label
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:18:13-58
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:17:13-44
+activity#com.example.loginwithretrofit.activity.LoginActivity
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:19:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.loginwithretrofit.activity.RegisterUserActivity
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:26:9-28:77
+	android:configChanges
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:27:13-58
+activity#com.example.loginwithretrofit.activity.WelComeActivity
+ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:29:9-31:48
+	android:label
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:30:13-53
+uses-sdk
+INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\21653b55bf9a07e012c42bd76ec444fd\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\21653b55bf9a07e012c42bd76ec444fd\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\2e7a0da1111f5faa4cda6ea80fd2bd90\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\3888af59fbe4fba461a590b8deef8f7d\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\3888af59fbe4fba461a590b8deef8f7d\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\42c6ff34da07236e9aa2d1eaa128ad70\library-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\42c6ff34da07236e9aa2d1eaa128ad70\library-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e238ab296da765bc3b78515b44fca6bf\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e238ab296da765bc3b78515b44fca6bf\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\1a3ded4e64de42b2a3c457e2799ab44d\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\1a3ded4e64de42b2a3c457e2799ab44d\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e789a0a2d89e293d0f4569a19b4e9481\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e789a0a2d89e293d0f4569a19b4e9481\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\37d72da4a9ea736597842a4062e093c7\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\37d72da4a9ea736597842a4062e093c7\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\6b594ba75684617f54228471eaa0a74c\timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\6b594ba75684617f54228471eaa0a74c\timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd1539511a552b9bcb61980685557554\mapbox-android-core-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:1.3.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd1539511a552b9bcb61980685557554\mapbox-android-core-1.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e7639780b22072cd2321f8ae8af553f5\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e7639780b22072cd2321f8ae8af553f5\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b28a254e55999e1d2aa62d09f8000698\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b28a254e55999e1d2aa62d09f8000698\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\7d76176e53fd418311040590316a8b91\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\7d76176e53fd418311040590316a8b91\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b0e58fc48c4f614940de1d0b6825b84d\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b0e58fc48c4f614940de1d0b6825b84d\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\d0058b50d3dc79d6a4280fa6904c5ce1\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\d0058b50d3dc79d6a4280fa6904c5ce1\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\8604b3cda7e19d093894a8b2288df84b\mapbox-android-gestures-0.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.4.2] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\8604b3cda7e19d093894a8b2288df84b\mapbox-android-gestures-0.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd5911b83a8e992314af65995caab3cc\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\dd5911b83a8e992314af65995caab3cc\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\85412a34accce7cbfb53db58c3d1a0c1\mapbox-android-accounts-0.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.2.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\85412a34accce7cbfb53db58c3d1a0c1\mapbox-android-accounts-0.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\90fe857600127dac9c0bede2393f4769\soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\90fe857600127dac9c0bede2393f4769\soloader-0.6.0\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\51a8ba79d7592159edea065639e710e5\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\51a8ba79d7592159edea065639e710e5\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\d9af15a00c1532a32083353129658c8a\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\d9af15a00c1532a32083353129658c8a\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b06eb4ce28a242d36ec78203522f4bd1\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\b06eb4ce28a242d36ec78203522f4bd1\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\a0525a1a8e83ff20339acc2ad5b327ec\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\a0525a1a8e83ff20339acc2ad5b327ec\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:13:9-45
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:15:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:19:9-23:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:21:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:20:13-93
+service#com.mapbox.android.telemetry.crash.CrashReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:25:9-27:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:26:13-92

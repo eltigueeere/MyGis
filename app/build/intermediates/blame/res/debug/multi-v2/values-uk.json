@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VI1XXWG\\Documents\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
+            "outputFile": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uk\\values-uk.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\2e7a0da1111f5faa4cda6ea80fd2bd90\\appcompat-v7-27.1.1\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\dd5911b83a8e992314af65995caab3cc\\support-compat-27.1.1\\res\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3455",
+                        "endColumns": "100",
+                        "endOffsets": "3551"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\2e7a0da1111f5faa4cda6ea80fd2bd90\\appcompat-v7-27.1.1\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-uk\\values-uk.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-uk\\values-uk.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,23 +52,6 @@
                         "startOffsets": "1879,2013,2182,2260,2344,2419,2517,2604,2734,2846,3025,3152,3297",
                         "endColumns": "133,168,77,83,74,97,86,129,111,178,126,144,76",
                         "endOffsets": "2008,2177,2255,2339,2414,2512,2599,2729,2841,3020,3147,3292,3369"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\dd5911b83a8e992314af65995caab3cc\\support-compat-27.1.1\\res\\values-uk\\values-uk.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3455",
-                        "endColumns": "100",
-                        "endOffsets": "3551"
                     }
                 }
             ]

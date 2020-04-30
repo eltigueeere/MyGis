@@ -4,108 +4,108 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="16"
-6-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml
+6-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="27" />
-7-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml
+7-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml
 8
 9    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-9-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:5:5-79
-9-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:5:22-76
+9-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:5:5-79
+9-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:5:22-76
 10    <uses-permission android:name="android.permission.INTERNET" />
-10-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:6:5-67
-10-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:6:22-64
+10-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:6:5-67
+10-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:6:22-64
 11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-11-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:7:5-81
-11-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:7:22-78
+11-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:7:5-81
+11-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:7:22-78
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:8:5-79
-12-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:8:22-76
+12-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:8:5-79
+12-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:8:22-76
 13
 14    <uses-feature
-14-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:9:5-11:35
+14-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:9:5-11:35
 15        android:glEsVersion="0x00020000"
-15-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:10:9-41
+15-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:10:9-41
 16        android:required="true" />
-16-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:11:9-32
+16-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:11:9-32
 17    <uses-feature
-17-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:12:5-14:36
+17-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:12:5-14:36
 18        android:name="android.hardware.wifi"
-18-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:13:9-45
+18-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:13:9-45
 19        android:required="false" />
-19-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:14:9-33
+19-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:14:9-33
 20
 21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Required for CrashReporterJobIntentService on API levels below 25 -->
-21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:18:5-76
-21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:18:22-73
+21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:18:5-76
+21-->[com.mapbox.mapboxsdk:mapbox-android-sdk:8.1.0] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\e0721aee506de8848d71ee87e14172a9\mapbox-android-sdk-8.1.0\AndroidManifest.xml:18:22-73
 22    <uses-permission android:name="android.permission.WAKE_LOCK" />
-22-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:12:5-68
-22-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:12:22-65
+22-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:12:5-68
+22-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:12:22-65
 23
 24    <application
-24-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:10:5-32:19
+24-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:10:5-32:19
 25        android:allowBackup="true"
-25-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:11:9-35
+25-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:11:9-35
 26        android:debuggable="true"
 27        android:icon="@drawable/ic_launcher"
-27-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:12:9-45
+27-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:12:9-45
 28        android:label="@string/app_name"
-28-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:13:9-41
+28-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:13:9-41
 29        android:testOnly="true"
 30        android:theme="@style/MyAppTheme" >
-30-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:14:9-42
+30-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:14:9-42
 31        <activity android:name="com.example.loginwithretrofit.activity.MapaActivity" />
-31-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:15:9-68
-31-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:15:19-56
+31-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:15:9-68
+31-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:15:19-56
 32        <activity
-32-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:16:9-18:61
+32-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:16:9-18:61
 33            android:name="com.example.loginwithretrofit.activity.Navbar"
-33-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:17:13-44
+33-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:17:13-44
 34            android:label="@string/title_activity_navbar" />
-34-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:18:13-58
+34-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:18:13-58
 35        <activity android:name="com.example.loginwithretrofit.activity.LoginActivity" >
-35-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:19:9-25:20
-35-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:19:19-57
+35-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:19:9-25:20
+35-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:19:19-57
 36            <intent-filter>
-36-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:20:13-24:29
+36-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:20:13-24:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:21:17-69
-37-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:21:25-66
+37-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:21:17-69
+37-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:21:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:23:17-77
-39-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:23:27-74
+39-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:23:17-77
+39-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:23:27-74
 40            </intent-filter>
 41        </activity>
 42        <activity
-42-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:26:9-28:77
+42-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:26:9-28:77
 43            android:name="com.example.loginwithretrofit.activity.RegisterUserActivity"
-43-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:27:13-58
+43-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:27:13-58
 44            android:configChanges="orientation|keyboardHidden|screenSize" />
-44-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:28:13-74
+44-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:28:13-74
 45        <activity
-45-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:29:9-31:48
+45-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:29:9-31:48
 46            android:name="com.example.loginwithretrofit.activity.WelComeActivity"
-46-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:30:13-53
+46-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:30:13-53
 47            android:label="@string/app_name" />
-47-->C:\Users\VI1XXWG\Documents\MyGis\app\src\main\AndroidManifest.xml:31:13-45
+47-->C:\Users\lalo\AndroidStudioProjects\MyGis\app\src\main\AndroidManifest.xml:31:13-45
 48
 49        <provider
-49-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:19:9-23:39
+49-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:19:9-23:39
 50            android:name="com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider"
-50-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:20:13-93
+50-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:20:13-93
 51            android:authorities="com.example.loginwithretrofit.mapboxtelemetryinitprovider"
-51-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:21:13-79
+51-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:21:13-79
 52            android:exported="false"
-52-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:22:13-37
+52-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:22:13-37
 53            android:initOrder="100" />
-53-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:23:13-36
+53-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:23:13-36
 54
 55        <service
-55-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:25:9-27:72
+55-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:25:9-27:72
 56            android:name="com.mapbox.android.telemetry.crash.CrashReporterJobIntentService"
-56-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:26:13-92
+56-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:26:13-92
 57            android:permission="android.permission.BIND_JOB_SERVICE" />
-57-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\VI1XXWG\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:27:13-69
+57-->[com.mapbox.mapboxsdk:mapbox-android-telemetry:4.5.1] C:\Users\lalo\.gradle\caches\transforms-2\files-2.1\551ef618e41649d655b7ca62548a1eda\mapbox-android-telemetry-4.5.1\AndroidManifest.xml:27:13-69
 58    </application>
 59
 60</manifest>

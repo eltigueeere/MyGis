@@ -1,4 +1,4 @@
-#Wed Apr 29 11:16:08 CDT 2020
-base.0=C\:\\Users\\VI1XXWG\\Documents\\MyGis\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Thu Apr 30 17:35:57 CDT 2020
+base.0=C\:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

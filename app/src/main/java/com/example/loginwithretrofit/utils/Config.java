@@ -4,7 +4,7 @@ package com.example.loginwithretrofit.utils;
 public class Config {
 
 
-	public static final String URL_IMAGES = "http://192.168.0.5/uconnect/images/";
+	public static final String URL_IMAGES = "http://192.168.1.105/laloGis/images/";
 
 	// Keys that will be used to send the request to php scripts
 	

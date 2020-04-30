@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VI1XXWG\\Documents\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
+            "outputFile": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\dd5911b83a8e992314af65995caab3cc\\support-compat-27.1.1\\res\\values-es\\values-es.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\dd5911b83a8e992314af65995caab3cc\\support-compat-27.1.1\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-es\\values-es.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\2e7a0da1111f5faa4cda6ea80fd2bd90\\appcompat-v7-27.1.1\\res\\values-es\\values-es.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\2e7a0da1111f5faa4cda6ea80fd2bd90\\appcompat-v7-27.1.1\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

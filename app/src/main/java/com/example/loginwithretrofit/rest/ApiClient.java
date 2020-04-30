@@ -8,7 +8,7 @@ public class ApiClient {
     /********
      * URLS
      *******/
-    private static final String ROOT_URL = "http://192.168.0.5/uconnect/";
+    private static final String ROOT_URL = "http://192.168.1.105/laloGis/";
 
     /**
      * Get Retrofit Instance

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VI1XXWG\\Documents\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "outputFile": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-he\\values-he.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-he\\values-he.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

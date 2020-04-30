@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\VI1XXWG\\Documents\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "outputFile": "C:\\Users\\lalo\\AndroidStudioProjects\\MyGis\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\2e7a0da1111f5faa4cda6ea80fd2bd90\\appcompat-v7-27.1.1\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\dd5911b83a8e992314af65995caab3cc\\support-compat-27.1.1\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3517",
+                        "endColumns": "100",
+                        "endOffsets": "3613"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\2e7a0da1111f5faa4cda6ea80fd2bd90\\appcompat-v7-27.1.1\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\lalo\\.gradle\\caches\\transforms-2\\files-2.1\\e0721aee506de8848d71ee87e14172a9\\mapbox-android-sdk-8.1.0\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,23 +52,6 @@
                         "startOffsets": "1917,2077,2260,2337,2417,2490,2582,2671,2806,2922,3090,3219,3354",
                         "endColumns": "159,182,76,79,72,91,88,134,115,167,128,134,77",
                         "endOffsets": "2072,2255,2332,2412,2485,2577,2666,2801,2917,3085,3214,3349,3427"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\VI1XXWG\\.gradle\\caches\\transforms-2\\files-2.1\\dd5911b83a8e992314af65995caab3cc\\support-compat-27.1.1\\res\\values-pt-rPT\\values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "33",
-                        "startColumns": "4",
-                        "startOffsets": "3517",
-                        "endColumns": "100",
-                        "endOffsets": "3613"
                     }
                 }
             ]

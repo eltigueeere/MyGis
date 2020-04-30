@@ -1,6 +1,6 @@
-# Android User Login and Registration with Retrofit, Php and MySql
+# Login sencillo con PHP Mysql Retrofit y un mapa con mapBox
 
-### NOTE =>uconnect folder is contain all php file and Database file. 
+### La carpeta laloGis contiene el codigo PHP y la DB
 
 **Log In**</br>
 <img src=https://user-images.githubusercontent.com/34679133/40468354-cfdab6ce-5f4a-11e8-823e-d404de7ae29d.png width="320" height="600"/></br></br>
